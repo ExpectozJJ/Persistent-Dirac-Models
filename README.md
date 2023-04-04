@@ -23,7 +23,10 @@ Dirac_classify_CNPbX.py --> Classify 9 types of OIHP using CNPbX Persistent Dira
 
 ## Weighted Dirac Matrices
 ---
-
+For a guanine amino acid at 1.2 angstroms, we construct its simplicial complex to construct its weighted and unweighted Dirac matrices. 
+```python
+weighted_Dirac_guanine.py --> Replicates the images on Figure 3. 
+```
 
 ## Cite
 If you use this code in your research, please cite our paper:
